@@ -1,0 +1,9 @@
+﻿-Đồ án gồm 2 project QL_QuanCF_USER và QL_QuanCF_ADMIN
+	+ QL_QuanCF_ADMIN dùng cho nhân viên và quản lý của quán
+	+ QL_QuanCF_USER dùng cho khách hàng để dặt hàng online
+-Lưu ý khi cài đặc phần mềm
+-Để 2 thư mục"DoAn_Adroid" và "QL_QuanCF_User" trong thư mục "Code_PHP" ở thư mục "htdocs" của Xampp
+-Thực hiện đổi IP của localhost trong Class Connect trong project
+-Chú ý cổng port của Xampp
+	+ Ví dụ IPv4=192.168.1.12 và port=8080
+	=>Thuộc tính IP trong class Connect là "192.168.1.12:8080" 
